@@ -1,0 +1,7 @@
+"/Users/hugobordais/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.103/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/hugobordais/Documents/Cours/B3/Dev/C++/simple_invaders
+-- Build spdlog: 1.4.3
+-- Build type: Debug
+-- Found SFML 2.5.1 in /usr/local/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hugobordais/Documents/Cours/B3/Dev/C++/simple_invaders/cmake-build-debug
